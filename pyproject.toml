@@ -3,6 +3,7 @@
 name = "aider-chat"
 description = "Aider is AI pair programming in your terminal"
 readme = "README.md"
+version = "1.0.0-dev"
 classifiers = [
     "Development Status :: 4 - Beta",
     "Environment :: Console",
